@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @horluwaphemi
 - 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning GKE
+- 🌱 I’m currently learning GKE and Azure Admiinistrator
 - 💞️ I’m looking to collaborate on DevOps projects.
 - 📫 How to reach me, via email @ femi.richard@nvit.tech and whatsapp +2347032090344
 - 😄 Pronouns: He
